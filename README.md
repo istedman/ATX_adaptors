@@ -5,4 +5,7 @@ The schematics and PCB files are included here in Eagle CAD format, V7 or later 
 
 The adaptors use a Microchip PIC10F200 microcontroller to debounce the switch and to turn on/off the power. The same micro is used to provide a 50/60Hz 'tick' signal. Accuracy was ~0.5Hz using internal oscillator. A Tag-connect MCP2030 is required to program the device. The ATX_PICV1.zip file has the software. MplabX and XC8 compiler required to rebuild. A hex file is within the archive.
 
-You can buy ready made PCBs from here: http://www.ianstedman.co.uk/Sales/sales.html
+#2021 Update
+
+I'm discontinuing sales of all Amiga related projects. Reduced order volumes and extra issues with order post Brexit have not made it viable to continue.
+All information, including BOMs, Gerbers and notes are now in the repository, if you want to build your own.
