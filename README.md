@@ -9,3 +9,7 @@ The adaptors use a Microchip PIC10F200 microcontroller to debounce the switch an
 
 I'm discontinuing sales of all Amiga related projects. Reduced order volumes and extra issues with order post Brexit have not made it viable to continue.
 All information, including BOMs, Gerbers and notes are now in the repository, if you want to build your own.
+
+# 2025 update
+
+I have re-exported the BOM data from the Excel originals. The part numbers are those from Quick-teck, who used to manufacture these boards for me. It's not a complicated design.
